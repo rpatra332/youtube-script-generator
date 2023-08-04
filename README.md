@@ -3,5 +3,5 @@ App built with LangChain, Google PaLm Generative AI and streamlit which can gene
 
 Need the environment variable for running the web application: 
 - GOOGLE_GENERATIVE_API_KEY
-  > [!IMPORTANT]
-  > Highlights information that users should take into account, even when skimming.
+> [!IMPORTANT]
+> Highlights information that users should take into account, even when skimming.
